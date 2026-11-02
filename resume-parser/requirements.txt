@@ -1,0 +1,11 @@
+fastapi==0.162.0
+uvicorn==0.54.0
+streamlit==1.66.1
+pymupdf==2.0           # PDF extraction
+python-docx==1.2.0     # DOCX extraction
+python-multipart==0.0.33  # File uploads
+pydantic==2.14.2
+loguru==0.7.3
+anthropic==2.3.0       # Claude API (LLM)
+python-dotenv==1.2.4   # Load .env
+requests==2.34.2       # Streamlit UI -> API calls

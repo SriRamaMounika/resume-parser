@@ -1,0 +1,47 @@
+{
+  "document_id": "3313ffcc-479c-41a3-b93a-3c81ae7e2b64",
+  "filename": "sample.pdf",
+  "created_at": "2026-11-01T15:13:01.177510Z",
+  "data": {
+    "contact": {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "phone": "+1 555 010 0199",
+      "location": "Austin, TX"
+    },
+    "summary": "Backend engineer with 6 years building Python APIs.",
+    "work_experience": [
+      {
+        "company": "Acme Corp",
+        "role": "Senior Software Engineer",
+        "duration": "Jan 2021 - Present",
+        "responsibilities": [
+          "Led migration of monolith to FastAPI microservices",
+          "Mentored 4 junior engineers"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "University of Texas at Austin",
+        "year": "2018"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "soft": [
+        "communication",
+        "leadership"
+      ]
+    },
+    "certifications": [
+      "AWS Certified Developer - Associate (2022)"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "e5ffcfd4-988b-405a-bf0c-595e013a7a15",
+  "filename": "Munnam Sateesh Reserach Platform Engineer.pdf",
+  "created_at": "2026-11-01T15:17:37.964401Z",
+  "data": {
+    "contact": {
+      "name": "MUNNAM SATEESH",
+      "email": "munnamsateesh3@gmail.com",
+      "phone": "+91 7675811508",
+      "location": "Hyderabad, India"
+    },
+    "summary": "Skilled Full Stack Java Developer with 4 years of experience involved in all stages of the Software Development Life Cycle (SDLC). Demonstrated expertise in engineering scalable microservices, secure backend RESTful APIs, and modern responsive user interfaces using Java, Spring Boot, React, and Vue.js. Hands-on experience in AWS cloud services, automated unit testing, AI integration, and enterprise application delivery in Agile environments.",
+    "work_experience": [
+      {
+        "company": "INU Technologies",
+        "role": "Software Engineer / Java Developer",
+        "duration": "03/2023 - Present",
+        "responsibilities": [
+          "Working as a Java Developer for Florida Power & Light (FPL), actively involved in the complete SDLC from analyzing business requirements to production deployment.",
+          "Developing, enhancing, and maintaining Java-based applications, scalable microservices, and REST APIs using Core Java, J2EE, Spring Boot, and JPA/Hibernate.",
+          "Collaborating with business stakeholders, QA, and cross-functional development teams in Agile/Scrum ceremonies to ensure seamless feature delivery.",
+          "Leveraging AI-assisted tools for efficient development, debugging, and test-case generation, and actively working on internal AI product development workflows.",
+          "Extensively utilizing Jira for task tracking and defect management, consistently involved in root-cause analysis and fixing application bugs and errors.",
+          "Taking ownership of code reviews for junior resources, mentoring team members, and interviewing freshers for Java openings.",
+          "Actively involved in AWS cloud deployment and monitoring, managing code through GitHub/Bitbucket, and actively using GitHub Actions to deploy code changes continuously.",
+          "Developing and supporting dynamic UI changes and integrations utilizing React and Vue.js."
+        ]
+      },
+      {
+        "company": "AvenData Technologies",
+        "role": "Full Stack Developer",
+        "duration": "08/2022 - 12/2022",
+        "responsibilities": [
+          "Built MVC web applications and optimized relational database queries and centralized schema structures.",
+          "Engineered automated testing scripts using Selenium with C# to ensure end-to-end quality and minimize regression defects.",
+          "Performed data parsing tasks, bug troubleshooting, root-cause analysis, and system reporting."
+        ]
+      }
+    ],
+    "education": [],
+    "skills": {
+      "technical": [
+        "Java (Core Java, Java 17, Java 8)",
+        "J2EE",
+        "OOPS",
+        "TypeScript",
+        "JavaScript",
+        "C#",
+        "Spring Boot",
+        "Spring MVC",
+        "Spring Data JPA",
+        "Hibernate",
+        "JDBC",
+        "Microservices",
+        "REST APIs",
+        "Node.js",
+        "React",
+        "React JS",
+        "Vue.js (Vue 3)",
+        "Tailwind CSS",
+        "Vite",
+        "HTML5",
+        "CSS3",
+        "MySQL",
+        "PostgreSQL",
+        "Oracle",
+        "MongoDB",
+        "AWS (EC2, S3, CloudWatch, Cognito)",
+        "Docker",
+        "JUnit",
+        "Vitest",
+        "Playwright/FitNesse exposure",
+        "Selenium",
+        "SonarQube",
+        "Git",
+        "GitHub Actions",
+        "Jira",
+        "Agile/Scrum"
+      ],
+      "soft": []
+    },
+    "certifications": []
+  }
+}
